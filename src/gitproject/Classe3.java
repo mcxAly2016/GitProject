@@ -9,8 +9,6 @@ package gitproject;
  *
  * @author Metacortex
  */
-public class Classe2 {
-    public void change(){
-        System.out.println("Hello");
-    }
+public class Classe3 {
+    
 }
