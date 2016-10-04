@@ -9,8 +9,13 @@ package gitproject;
  *
  * @author Metacortex
  */
-public class Classe2 {
-    public void change(){
-        
+public class GitProject {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
     }
+    
 }
